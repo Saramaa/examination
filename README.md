@@ -26,8 +26,10 @@ knappen "module/install". När detta är gjort möts du av ett meddelande som ve
 användare med namn/lösenord "doe/doe" och "root/root". Nu är installationen klar! 
 
 
+
 Utföra egna ändringar i Lycka
 ===============================
+
 För att utföra egna ändringar i Lycka skall du gå till filen config.php som du finner i katalogen kmom8/site/.
 Här finns det flertalet saker du kan ändra:
 <h4>Logo</h4>
