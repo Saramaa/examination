@@ -51,7 +51,7 @@ Skapa innehåll
 ==============
 Anvisningar för att skapa innehåll för blog och sida:
 <h4>Blog</h4>
-1. Klicka på "My blog" i menyn. 2. Klicka på "edit" på ett av de bloginlägg som har lagts in som default. 3. Klicka på "Create new".
-4. Fyll i de olika fälten. Tänk på att type skall vara "post" och Filter skall vara "plain".
+(1)Klicka på "My blog" i menyn. (2)Klicka på "edit" på ett av de bloginlägg som har lagts in som default. (3) Klicka på "Create new".
+(4) Fyll i de olika fälten. Tänk på att type skall vara "post" och Filter skall vara "plain".
 <h4>Sida</h4>
-1. Klicka på "About Me" i menyn. 2. Klicka på "edit". 3. Klicka på "Create new". 4. Fyll i fälten. Tänk på att type skall vara "post" och Filter skall vara "plain".
+(1) Klicka på "About Me" i menyn. (2) Klicka på "edit". (3) Klicka på "Create new". (4) Fyll i fälten. Tänk på att type skall vara "post" och Filter skall vara "plain".
