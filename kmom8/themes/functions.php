@@ -11,9 +11,7 @@
 function get_tools() {
   global $ly;
   return <<<EOD
-<p>
-<a href="http://www.student.bth.se/~anjo13/phpmvc/kmom1/index.php">Min Me-sida</a>
-</p>
+
 
 EOD;
 }
